@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+; David's Tech Repair
+; Your Friendly Neighborhood IT Guy
+; https://davidstechrepair.wixsite.com/davidstechrepair
+
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\PowerShellAsAdmin]
+
+[-HKEY_CLASSES_ROOT\Directory\shell\PowerShellAsAdmin]
+
+[-HKEY_CLASSES_ROOT\Drive\shell\PowerShellAsAdmin]
+
+[-HKEY_CLASSES_ROOT\LibraryFolder\Background\shell\PowerShellAsAdmin]

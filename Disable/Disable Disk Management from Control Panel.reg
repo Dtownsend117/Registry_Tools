@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+; David's Tech Repair
+; Your Friendly Neighborhood IT Guy
+; https://davidstechrepair.wixsite.com/davidstechrepair
+
+[-HKEY_CLASSES_ROOT\CLSID\{403ac161-c813-4819-b37f-3aacf0e12e0e}]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ControlPanel\NameSpace\{403ac161-c813-4819-b37f-3aacf0e12e0e}]

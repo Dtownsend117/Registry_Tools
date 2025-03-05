@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+; David's Tech Repair
+; Your Friendly Neighborhood IT Guy
+; https://davidstechrepair.wixsite.com/davidstechrepair
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate]
+"TargetReleaseVersion"=dword:00000001
+"TargetReleaseVersionInfo"="21H2"
