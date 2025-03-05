@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+; David's Tech Repair
+; Your Friendly Neighborhood IT Guy
+; https://davidstechrepair.wixsite.com/davidstechrepair
+
+[-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layout]
+"InsertKey"=-
