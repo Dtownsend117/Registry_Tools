@@ -5,7 +5,6 @@ import ctypes
 import speech_recognition as sr
 import pyttsx3
 
-# Set the base directory where the 'enable' and 'disable' folders are located
 base_directory = r''  # Add your directory path, use / to separate locations
 
 def speak(text):
